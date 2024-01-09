@@ -1,4 +1,4 @@
-# CSS: Animation
+# CSS: Animation Test
 This is the repository for the LinkedIn Learning course CSS: Animation. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![CSS: Animation][lil-thumbnail-url] 
